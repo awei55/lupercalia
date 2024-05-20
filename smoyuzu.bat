@@ -1,0 +1,1 @@
+start "" "C:\Users\synch\AppData\Local\yuzu\yuzu-windows-msvc/yuzu.exe" "D:\Super Mario Odyessey\SMO-NSP-1.0.0\Super Mario Odyssey [0100000000010000][v0].nsp"
